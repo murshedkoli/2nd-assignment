@@ -1,41 +1,36 @@
-
 .custom-nav li a {
-
     color: black !important;
     font-weight: bold;
     margin-right: 30px;
-
 }
 
-.logos img{
+.logos img {
     width: 50%;
 }
 
-
-.head-text h1{
+.head-text h1 {
     font-size: 60px;
     font-weight: bold;
     text-transform: uppercase;
 }
-.banner-s{
-    
-    background-color:#fffbf0;
-    
+
+.banner-s {
+    background-color: #fffbf0;
 }
 
-.h-images{
+.h-images {
     padding: 20px;
 }
 
-.head-text h1:first-child{
+.head-text h1:first-child {
     color: #fabe4c;
 }
 
-.head-text h1:nth-child(2), section>h2, .custom-card .card-title, .infos h3{
+.head-text h1:nth-child(2), section>h2, .custom-card .card-title, .infos h3 {
     color: #363958;
 }
 
-.btn-ss{
+.btn-ss {
     color: white;
     font-weight: bold;
     background-color: #99b236;
@@ -43,71 +38,67 @@
     border-radius: 10px;
 }
 
-
-section>h2{
+section>h2 {
     font-size: 40px;
     text-transform: uppercase;
     margin: 50px auto;
 }
 
-.custom-card{
+.custom-card {
     border: none;
     box-shadow: 0 0 8px 6px #0000000f;
     padding: 20px;
 }
 
-.custom-card .card-footer{
+.custom-card .card-footer {
     background-color: white;
     border: none;
 }
 
-.custom-card .card-footer h3{
-   font-weight: bold;
-   font-size: 35px;
-   color: #fabe4c;
+.custom-card .card-footer h3 {
+    font-weight: bold;
+    font-size: 35px;
+    color: #fabe4c;
 }
 
-
-.custom-card .card-title{
+.custom-card .card-title {
     font-size: 25px;
     font-weight: bold;
 }
 
-.custom-card .p-img{
+.custom-card .p-img {
     background-color: #f1f1f1;
     height: 300px;
     border-radius: 10px;
     display: flex;
     align-items: center;
     justify-content: center;
-    
 }
 
-.p-img img{
+.p-img img {
     height: 250px;
     width: 220px;
-    
 }
 
-.infos img{
+.infos img {
     width: 70%;
 }
 
-.infos h3{
+.infos h3 {
     font-weight: bold;
 }
 
-.infos{
+.infos {
     box-shadow: 0 0 8px 6px #0000000f;
     border-radius: 10px;
     margin-bottom: 25px;
 }
 
-.last{
+.last {
     margin-top: 100px;
     margin-bottom: 200px;
 }
 
-section{
+section {
     margin: 100px 0;
 }
